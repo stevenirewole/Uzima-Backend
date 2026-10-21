@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1547-issue-082-enforce-coupon-expiry-and-usage-limits",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1547-issue-082-enforce-coupon-expiry-and-usage-limits": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1547-issue-082-enforce-coupon-expiry-and-usage-limits",
+    "origin"
+  ]
+}
